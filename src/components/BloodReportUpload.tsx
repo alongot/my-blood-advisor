@@ -108,7 +108,7 @@ export const BloodReportUpload = ({ onAnalysisComplete }: BloodReportUploadProps
                   {isDragActive ? 'Drop your file here' : 'Drag & drop your blood report'}
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  or click to browse • PDF, PNG, JPG supported
+                  or click to browse • PDF supported
                 </p>
               </div>
             </div>
