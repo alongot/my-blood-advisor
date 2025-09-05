@@ -24,9 +24,9 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <div className="w-8 h-8 bg-gradient-to-br from-medical-primary to-medical-primary/80 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">B</span>
+                <span className="text-white font-bold text-sm">V</span>
               </div>
-              <h1 className="text-xl font-semibold text-medical-primary">BloodInsight AI</h1>
+              <h1 className="text-xl font-semibold text-medical-primary">Vitabae </h1>
             </div>
             {analysisResults && (
               <Button
